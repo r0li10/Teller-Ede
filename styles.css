@@ -56,3 +56,17 @@ body {
     text-decoration: none;
     color: red;
   }
+
+  tr{
+    border-top: none;
+    border-bottom: 1px gray solid;
+  }
+  th,td{
+    margin: 10px;
+    text-align: center;
+
+  }
+  th{
+    color: white;
+    background-color: gray;
+  }
